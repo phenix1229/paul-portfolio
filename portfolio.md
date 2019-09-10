@@ -2,32 +2,39 @@
 
 ## About me
 
-I have worked over 10 years in IT in desktop support. I recently made a switch to web development and am attending classes at Code Immersives. I enjoy puzzles, taking things apart, reverse engineering and reassembling them. I also enjoy riding my bike and walking around the city.
+I have worked over 10 years in IT in desktop support. I recently made a switch to web development and am attending classes at Code Immersives. I enjoy puzzles, taking things apart, reverse engineering and reassembling them. I also enjoy riding my bike and walking around the city. I also have one furry, four-legged child.
+
+---
 
 ## Experience
 
-10+ years desktop support including:
+#### 10+ years desktop support including:
 
 * PC and Mac hardware upgrade and repair
 * PC and Mac software support
 * Printer repair
 * Network troubleshooting
 
-<1 year web development including:
+#### <1 year web development including:
 
 * Markdown
 
+---
+
 ## Education
 
-Technical Career Institute
+#### Technical Career Institute
 
 * Computer Hardware
 
-Code Immersives
+#### Code Immersives
 
 * BASH
 * Visual Studio Code
 * Git/Github
 * Markdown
 
+---
+
 ## Projects
+
