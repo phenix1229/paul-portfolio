@@ -13,6 +13,21 @@ I have worked over 10 years in IT in desktop support. I recently made a switch t
 * Printer repair
 * Network troubleshooting
 
+<1 year web development including:
+
+* Markdown
+
 ## Education
+
+Technical Career Institute
+
+* Computer Hardware
+
+Code Immersives
+
+* BASH
+* Visual Studio Code
+* Git/Github
+* Markdown
 
 ## Projects
