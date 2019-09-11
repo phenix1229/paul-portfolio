@@ -4,7 +4,7 @@
 
 I have worked over 10 years in IT in desktop support. I recently made a switch to web development and am attending classes at Code Immersives. I enjoy puzzles, taking things apart, reverse engineering and reassembling them. I also enjoy riding my bike and walking around the city. I also have one furry, four-legged child.
 
-![Buddy](https://drive.google.com/file/d/1X1Q31ZI-1o-vDWTRRF5amIqym3j94fRi/view?usp=sharing)
+![Not my dog](http://www.cockapooowners-club.org.uk/uploads/9/5/7/4/9574720/2588098_orig.jpg)
 
 ---
 
@@ -46,7 +46,7 @@ The first is a practice exam for ITIL certification which shows/hides the correc
 
 The second is an expense tracker I made for a friend whose checking account was constantly getting overdrawn. I created a button and a dropdown menu for their most common expenses, added a button for miscellaneous expenses, and a button and dropdown menu for deposits. The first sheet contains the menu items and starting balance which is carried over to the next sheet and is updated with each new expense or deposit. There is also a feature that automatically opens a new sheet with the date on it every time it is opened on a new day. This was created from scratch.
 
-Please download and enable macros in order to experience the full functionality of both files.
+**_Please download and enable macros in order to experience the full functionality of each file._**
 
 [Practice ITIL exam](https://drive.google.com/file/d/1nQqjNQEp6pwvaZfrz8lerzM45s3rbFS0/view?usp=sharing)
 
