@@ -4,7 +4,7 @@
 
 I have worked over 10 years in IT in desktop support. I recently made a switch to web development and am attending classes at Code Immersives. I enjoy puzzles, taking things apart, reverse engineering and reassembling them. I also enjoy riding my bike and walking around the city. I also have one furry, four-legged child.
 
-![Not my dog](http://www.cockapooowners-club.org.uk/uploads/9/5/7/4/9574720/2588098_orig.jpg)
+![Not my dog](/photos/buddy.jpg)
 
 ---
 
